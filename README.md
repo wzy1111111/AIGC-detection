@@ -11,7 +11,6 @@
 ## Contents
 
 - [Setup](#setup)
-- [Pretrained model](#weights)
 - [Data](#data)
 - [Evaluation](#evaluation)
 - [Training](#training)
@@ -26,8 +25,6 @@
 pip install torch torchvision
 ```
 3. 
-
-
 ## Data
 
 - Of the 19 models studied overall (Table 1/2 in the main paper), 11 are taken from a [previous work](https://arxiv.org/abs/1912.11035). Download the test set, i.e., real/fake images for those 11 models given by the authors from [here](https://drive.google.com/file/d/1z_fD3UKgWQyOTZIBbYSaQ-hz4AzUrLC1/view) (dataset size ~19GB).
