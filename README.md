@@ -2,12 +2,6 @@
 
 **** <br>Semantic Discrepancy-aware Detector for Image Forgery Identification<br>
 
-
-<p align="center">
-    <a href="https://utkarshojha.github.io/universal-fake-detection/"><img src="resources/teaser.png" width="80%">></a> <br>
-    Using images from one type of generative model (e.g., GAN), detect fake images from other <i>breeds</i> (e.g., Diffusion models)
-</p>
-
 ## Contents
 
 - [Setup](#setup)
