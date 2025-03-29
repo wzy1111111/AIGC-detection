@@ -40,13 +40,7 @@ def get_val_opt():
 
 if __name__ == '__main__':
     import argparse
-
-    # 创建 ArgumentParser 实例
     parser = argparse.ArgumentParser()
-
-
-
-    # 解析命令行参数
     args = parser.parse_args()
 
     torch.backends.cudnn.benchmark = True
